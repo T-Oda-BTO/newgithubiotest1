@@ -1,1 +1,1 @@
-# newgithubiotest1
+# BMM サポートページ
